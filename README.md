@@ -34,9 +34,6 @@ Spring Boot • Spring Security • OAuth2 • Hibernate • JPA • REST APIs
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
