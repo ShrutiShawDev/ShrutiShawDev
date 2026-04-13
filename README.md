@@ -10,10 +10,10 @@
 ## 👩‍💻 About Me
 
 🎓 Final Year **Computer Science Engineering Student**  
-💻 Passionate about **Backend Development & Software Engineering**  
-🔐 Building **secure REST APIs using Java, Spring Boot & Spring Security**  
-🗄️ Built database-driven applications using **MySQL, JPA, and Hibernate**
-📚 Strong fundamentals in **OOP, DSA, and DBMS**
+💻 Focused on learning **Backend Development and Software Engineering**  
+🔐 Currently building **secure REST APIs using Java, Spring Boot, and Spring Security**  
+🗄️ Built database-driven applications using **MySQL, JPA, and Hibernate**  
+📚 Strengthening fundamentals in **OOP, Data Structures & Algorithms, and DBMS**
 
 ---
 
