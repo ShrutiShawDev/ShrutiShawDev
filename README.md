@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 B.Tech CSE graduate (JIS College of Engineering, CGPA: 8.64) with a strong interest in Backend Development and Software Engineering. I enjoy building secure, scalable, database-driven applications using Java and Spring Boot.
+🎓 B.Tech CSE graduate from JIS College of Engineering (CGPA: 8.64), actively building backend applications using Java and Spring Boot. Focused on developing secure, scalable, and database-driven systems while continuously strengthening my understanding of backend development and software engineering principles.
 
 - 🔭 Currently working on **Microservices and AI-powered Backend Applications**
 - 🌱 Learning **Spring Cloud, Kafka, Docker, and System Design**
