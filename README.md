@@ -1,71 +1,81 @@
-<h1 align="center">Hi 👋, I'm Shruti Shaw</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45">
-</p>
+# Hi 👋, I'm Shruti Shaw
 
----
+**Backend Developer | Java & Spring Boot**
 
-## 👩‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Java+Developer;Spring+Boot+%7C+REST+APIs;Building+Scalable+Backends)](https://git.io/typing-svg)
 
-🎓 Final Year **Computer Science Engineering Student**  
-💻 Focused on learning **Backend Development and Software Engineering**  
-🔐 Currently building **secure REST APIs using Java, Spring Boot, and Spring Security**  
-🗄️ Built database-driven applications using **MySQL, JPA, and Hibernate**  
-📚 Strengthening fundamentals in **OOP, Data Structures & Algorithms, and DBMS**
+</div>
 
 ---
 
-## 🚀 Tech Stack
+### 👩‍💻 About Me
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-</p>
+🎓 B.Tech CSE graduate (JIS College of Engineering, CGPA: 8.64) with a strong interest in Backend Development and Software Engineering. I enjoy building secure, scalable, database-driven applications using Java and Spring Boot.
 
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-**Technologies:**  
-Spring Boot • Spring Security • OAuth2 • Hibernate • JPA • REST APIs
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-MySQL • MongoDB
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- 🔭 Currently working on **Microservices and AI-powered Backend Applications**
+- 🌱 Learning **Spring Cloud, Kafka, Docker, and System Design**
+- 🤖 Have integrated **AI-powered features** (Google Gemini API) into backend applications
+- 📊 Solved **150+ DSA problems** on LeetCode
+- 📄 Co-authored a research paper accepted for **oral presentation at ACMESGA 2026**
+- 🎯 Seeking **Backend Developer / Java Developer** roles to build scalable applications and grow as an engineer
 
 ---
 
-## 📂 Projects
+### 🚀 Tech Stack
 
-### 🏋️ Fitness Activity Tracker API
-• Built a **Spring Boot REST API** for managing fitness activities  
-• Implemented **JWT Authentication & Role-Based Access Control**  
-• Integrated **Spring Data JPA, Hibernate, and MySQL**
+**Languages:** Java · SQL
 
-### 💰 Cashlytic
-• AI-powered **Finance Tracker**  
-• Built with **Next.js, React, Supabase**  
-• Integrated **Google Gemini API for receipt scanning**
+**Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · Kafka · JWT Authentication · OAuth2 · Microservices · REST APIs · Multi-threading
 
----
+**Databases:** MySQL · MongoDB · InfluxDB
 
-## 📫 Connect With Me
+**Frontend:** HTML · CSS · Tailwind CSS
 
-📧 Email: **shrutishaw750@gmail.com**  
-💼 LinkedIn: *https://www.linkedin.com/in/shruti-shaw02/*  
-🌐 Portfolio: *https://shruti-s-portfolio-wheat.vercel.app/*  
+**Tools:** Git · GitHub · Postman · Swagger · Maven · Docker · Keycloak · IntelliJ IDEA · VS Code
+
+**CS Fundamentals:** Data Structures & Algorithms · OOP · DBMS
 
 ---
 
-⭐ **Always learning and building scalable backend applications**
+### 📂 Featured Projects
+
+**🔋 [Home Energy Management System](https://github.com/ShrutiShawDev)**
+`Java` `Spring Boot` `Kafka` `MySQL` `InfluxDB` `Keycloak` `Docker`
+7-service microservices backend for real-time energy monitoring with 5+ secured REST APIs.
+
+**✉️ [MailCraft AI](https://github.com/ShrutiShawDev/MailCraft-Ai)**
+`Spring Boot` `Google Gemini API` `WebClient` `Chrome Extension`
+Gmail-integrated AI email assistant — generates contextual replies in one click, ~65% faster drafting.
+
+**🏋️ [Fitness Activity Tracker API](https://github.com/ShrutiShawDev/fitness-tracker-api)**
+`Spring Boot` `Spring Security` `JWT` `Hibernate` `MySQL`
+Secure REST API with JWT auth, RBAC, and a rule-based recommendation engine.
+
+---
+
+### 📚 Core CS Fundamentals
+
+OOP · Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · RESTful API Design
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🧩 Solved **150+ DSA problems** on LeetCode
+- 📜 **Soft Computing Techniques** Certification — NPTEL
+- 📝 **Publication & Paper Presentation Certificate** — ACMESGA 2026
+
+---
+
+### 📫 Connect With Me
+
+📧 **Email:** [shrutishaw750@gmail.com](mailto:shrutishaw750@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/shruti-shaw02](https://www.linkedin.com/in/shruti-shaw02/)
+🌐 **Portfolio:** [shruti-s-portfolio-wheat.vercel.app](https://shruti-s-portfolio-wheat.vercel.app/)
+💻 **LeetCode:** [leetcode.com/u/ShrutiShaw](https://leetcode.com/u/ShrutiShaw/)
+
+---
+
+⭐ *Open to Backend Developer and Software Engineer opportunities — let's connect!*
